@@ -1,5 +1,4 @@
-# VIT VELLORE Health Care 
-
+# VIT VELLORE Health Care <img width="231" alt="Screenshot 2021-07-07 at 6 18 42 PM" src="https://user-images.githubusercontent.com/63747907/124761828-d2624c80-df4f-11eb-8842-cc0d0e7816d9.png">
 ABOUT THE PROJECT
 ----------------------------
 
