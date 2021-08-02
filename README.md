@@ -46,4 +46,10 @@ Doctors(Can be registered only through superuser):
 
 ----------------------------
 
+<img width="1426" alt="1" src="https://user-images.githubusercontent.com/63747907/127910891-0a66b27d-0ade-4e80-9d7c-2c938e02ada8.png">
+<img width="1427" alt="n" src="https://user-images.githubusercontent.com/63747907/127910934-0af9c8e2-9615-4c3e-b86a-56efab63bc7c.png">
+<img width="1421" alt="n1" src="https://user-images.githubusercontent.com/63747907/127910959-88b44b05-a887-48e0-b52e-922f5959cacc.png">
+<img width="1436" alt="n2" src="https://user-images.githubusercontent.com/63747907/127910977-8b06042e-7036-4d1c-8f45-7c3168029372.png">
+<img width="1424" alt="2" src="https://user-images.githubusercontent.com/63747907/127910981-03de775c-ca67-4e2a-91ec-814592ca1b18.png"> 
+
 
