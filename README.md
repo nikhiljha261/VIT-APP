@@ -1,4 +1,4 @@
-# VIT VELLORE Health Care 
+# VIT VELLORE Health Care. 
 
 ABOUT THE PROJECT
 ----------------------------
